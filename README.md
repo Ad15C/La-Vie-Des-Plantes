@@ -160,7 +160,7 @@ Importer la base via :phpMyAdmin
 
 ## Lancer le site
 Accéder au site :
-http://localhost:8080/la_vie_des_plantes
+[http://localhost:8080/la_vie_des_plantes](http://localhost:8080/la-vie-des-plantes/app/public/)
 
 # Contact
 Pour toutes informations, vous pouvez me contacter à l'adresse mail suivante: ad15canon@gmail.com
